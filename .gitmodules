@@ -1,0 +1,3 @@
+[submodule "awesome-pancakeswap-lottery/lib/forge-std"]
+	path = awesome-pancakeswap-lottery/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
