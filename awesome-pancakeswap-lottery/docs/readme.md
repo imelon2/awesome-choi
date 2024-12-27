@@ -1,0 +1,5 @@
+- 비용
+    - Subscription method
+        - 하나의 구독 계정에 여러 소비자 연결 지원
+    - Direct funding method
+        - 각 요청에 대한 비용 직접 지불
